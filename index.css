@@ -20,6 +20,9 @@ body.dark {
   bottom: 10px;
   right: 10px;
 }
+body.dark .name {
+  color: #000000;
+}
 
 .container {
   width: 440px;
